@@ -1,0 +1,7 @@
+id,type,name,status,description,epic,startTime,endTime,duration
+1,TASK,task1,NEW,description,12.01.2023 17:40,13.01.2023 02:00,500
+2,TASK,task2,NEW,description
+3,EPIC,epic,NEW,description
+4,SUBTASK,subtask,NEW,description,3
+
+3,4

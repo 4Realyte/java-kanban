@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="json">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../m1-t25-api/lib" />
+      <root url="file://$PROJECT_DIR$/../m1-t25-api/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../m1-t25-api/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../m1-t25-api/lib" recursive="false" />
+  </library>
+</component>
